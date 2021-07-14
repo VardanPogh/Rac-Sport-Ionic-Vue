@@ -1,0 +1,19 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "rac_vue_app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": [
+      "my.api.url"
+    ]
+  }
+}

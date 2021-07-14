@@ -1,0 +1,8 @@
+.swiper-pagination {
+    top: 8px;
+    right: -11rem;
+}
+
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal > .swiper-pagination-bullets {
+    width: unset;
+}

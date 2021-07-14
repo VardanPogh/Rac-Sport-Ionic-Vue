@@ -1,0 +1,7 @@
+{
+  "name": "rac_vue_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
